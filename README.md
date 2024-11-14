@@ -1,1 +1,1 @@
-# Gesture-Controlled-Bot-using-Tiva
+# Bluetooth controlled bot using tiva
